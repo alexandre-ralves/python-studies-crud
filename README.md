@@ -37,7 +37,7 @@ cd crud_python
 3. Execute o programa:
 
 ```bash
-python3 app/main.py
+python3 -m app/main.py
 ```
 
 ---
