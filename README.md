@@ -10,7 +10,9 @@ Este é um projeto simples de **CRUD (Create, Read, Update, Delete)** feito em *
 crud_python/
 │
 ├── app/
-│   ├── main.py           ← Código principal do CRUD
+│   ├── main.py           ← Código principal responsável pela navegação e controle das demais funções
+|   ├── tarefas.py        ← Funções de gerenciamento das tarefas
+|   ├── utils.py          ← Código principal do CRUD
 │
 ├── data/
 │   └── db.json           ← "Banco de dados" em formato JSON
