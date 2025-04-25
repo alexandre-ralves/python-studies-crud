@@ -11,8 +11,8 @@ crud_python/
 │
 ├── app/
 │   ├── main.py           ← Código principal responsável pela navegação e controle das demais funções
-|   ├── tarefas.py        ← Funções de gerenciamento das tarefas
-|   ├── utils.py          ← Código principal do CRUD
+|   ├── tarefas.py        ← Funções de gerenciamento das tarefas: criação, edição/movimentação de status, e exclusão.
+|   ├── utils.py          ← Funções de leitura e gravação das tarefas.
 │
 ├── data/
 │   └── db.json           ← "Banco de dados" em formato JSON
