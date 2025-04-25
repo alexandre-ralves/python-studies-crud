@@ -15,9 +15,9 @@ crud_python/
 |   ├── utils.py          ← Funções de leitura e gravação das tarefas.
 │
 ├── data/
-│   └── db.json           ← "Banco de dados" em formato JSON
+│   └── db.json           ← "Banco de dados" simulado com um arquivo em formato JSON.
 │
-└── README.md             ← Este arquivo
+└── README.md             ← Este arquivo.
 ```
 
 ---
