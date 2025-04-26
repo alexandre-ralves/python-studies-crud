@@ -112,10 +112,3 @@ PYTHONPATH=. pytest
 - Automatizar execução de testes com GitHub Actions no pipeline de CI
 
 ---
-
-## ✨ Autor
-
-- **Alexandre Alves**
-- GitHub: [@alexandre-ralves](https://github.com/alexandre-ralves)
-
----
