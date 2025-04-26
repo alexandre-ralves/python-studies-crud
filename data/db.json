@@ -3,5 +3,10 @@
         "id": "85f79251-f4e8-4401-bac6-224456c34a92",
         "titulo": "Testando UUID",
         "concluida": false
+    },
+    {
+        "id": "cdfba25e-37fe-4f48-a29b-23b99c88ccfc",
+        "titulo": "Testar exclus\u00e3o",
+        "concluida": false
     }
 ]
