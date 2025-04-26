@@ -4,8 +4,10 @@ from app.tarefas import (
     concluir_tarefa,
     excluir_tarefa
 )
+from app.utils import init_db
 
 def main():
+    init_db()  # ← inicializa o banco de dados aqui
     while True:
         print("\n=== Lista de Tarefas ===")
         print("1 - Criar nova tarefa")
